@@ -1,0 +1,156 @@
+{
+  "main": {
+    "id": "9eb9fbe81c692e1e",
+    "type": "split",
+    "children": [
+      {
+        "id": "0970a77c5b63fdfd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0f0c3047d4986d1a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PostgreSQL/Глава 4. Типы данных СУБД PostgreSQL.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3414edcce5d89fbc",
+    "type": "split",
+    "children": [
+      {
+        "id": "273952049706eadb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "700c6551fdc93d87",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b166dfd76f079194",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "fd85b560918df2a7",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "8d3dc89b82768afa",
+    "type": "split",
+    "children": [
+      {
+        "id": "5d1e4d86512bb725",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "948e7d1df8011e17",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "PostgreSQL/Глава 4. Типы данных СУБД PostgreSQL.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "826172333b5f3e65",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "PostgreSQL/Глава 4. Типы данных СУБД PostgreSQL.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "497f889a1864c401",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c121f7f9b08d546a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "PostgreSQL/Глава 4. Типы данных СУБД PostgreSQL.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "0f0c3047d4986d1a",
+  "lastOpenFiles": [
+    "Pasted image 20230217142619.png",
+    "PostgreSQL/Глава 4. Типы данных СУБД PostgreSQL.md",
+    "Pasted im age 20230217142303.png.md",
+    "Pasted image 20230217142303.png"
+  ]
+}
